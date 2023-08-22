@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  header{
+    background-color: #EAC926;
+}
+
+.imgMercadoLibre{
+    width: 60%;
+    padding: 25px;
+    margin-left: 7%;
+}
+
+.search{
+    margin-left: 7%;
+}
+
+.lupa {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    max-width: 23px;
+    height: 23px;
+    background-color: white;
+    border: 1px solid #666;
+    color: black;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 15px;
+  }
+  
+.data { 
+    text-align: center;
+    line-height: 1px;
+
+}
+
+.navegacion ul {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0; 
+  }
+  
+  .navegacion a {
+    text-decoration: none; 
+    color: black; 
+    margin-left: 5px; 
+  }
+  
+.navegacion i {
+    margin-left: 5px; 
+  }
+  
+.navBar1 li:nth-child(4) {
+    margin-bottom: 20px; 
+  }
+  
+.menu{
+    text-align: center;
+    display: block;
+    max-width: 50px;
+    padding: 15px;
+    background-color: #1259c3;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: auto;
+}
+
+.menu1{
+    padding-bottom: 20px;
+}
+
+main{
+text-align: center;
+width: 90%;
+margin: 10px;
+}
+
+img{
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    background-color: #f5f5f5;
+    padding: 20px 0;
+  }
+  
+  .footer-section {
+    text-align: center;
+    max-width: 300px;
+    margin-bottom: 20px; 
+  }
+  
+  .iconos {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #1259c3; 
+  }
+
+  .productos {
+    border: 1px solid #ebebeb;
+    padding: 15px;
+    display: inline-block;
+    
+}
+
+.imgProductos {
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.nombreProducto {
+    margin-top: 15px;
+    margin-left: 20px;
+    
+}
+
+.precio {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+
+.descuento {
+    font-size: 14px;
+    color: #39b54a;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.nombreProducto {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+
+div.productos{
+    background-color:#ebebeb;
+}
+
+.articulos{
+    background-color: white;
+    margin-top: 0px;
+    text-align: left;
+}
+
+.envios {
+    font-size: 1.5em;
+    color: #39b54a; 
+  }
+  
+  .envios {
+    font-size: 1em; 
+    color: #39b54a;
+    background-color: #ffffff;
+    width: 40px;
+    height: 40px; 
+    border: 2px solid #39b54a;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .envios i {
+    color: #39b54a; 
+    margin: 0; 
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ebebeb; 
+  }
+  
+ h2 {
+    color: #666;
+    margin-top: 25px;
+  }
+  
+
+  
+ 
+
+  
+  
+
+    
+  
+
+  
+  
